@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **Desarrollador Fullstack · Java · Spring Boot · React · .NET · Guayaquil, Ecuador**
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-personal-tan-tau.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://masm.novamicktools.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Salazar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masm07715)
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.salazarmejia03@gmail.com)
 
@@ -51,7 +51,6 @@ Me interesa el desarrollo de sistemas escalables, arquitectura limpia y buenas p
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
@@ -69,6 +68,7 @@ Me interesa el desarrollo de sistemas escalables, arquitectura limpia y buenas p
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
